@@ -1,6 +1,4 @@
-# 10 Days 10 Questions-Data-Strucure-and-Algorithum-Marathon
-
-
+# 10 Days 10 Questions Data Structure and Algorithum Marathon
 
 ### Day 1 - Array
 |  |  |
